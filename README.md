@@ -183,13 +183,13 @@ I also design and build **CTF (Capture The Flag) labs** that simulate real-world
 
 ### 🧪 What I'm Into
 
-- **Web Application Pentesting** — SQLi, XSS, SSRF, RCE, IDOR, file upload bypasses, WAF evasion, API security
-- **Network Pentesting** — Port scanning, service enumeration, SMB/FTP exploitation, VPN attacks, pivoting & tunneling
-- **Android Pentesting** — APK reverse engineering, Frida hooking, MobSF analysis, SSL pinning bypass
-- **Red Team Engagements** — Adversary simulation, initial access, lateral movement, persistence, C2 operations
-- **Bug Bounty Hunting** — Finding and responsibly disclosing vulnerabilities in production systems
-- **CTF Lab Design** — Building realistic multi-stage attack environments with Docker
-- **Security Content Creation** — YouTube & Instagram tutorials for the cybersecurity community
+- **Web Application Pentesting** — End-to-end web app assessments from recon to exploitation — chaining auth bypasses, business logic flaws, SSRF-to-RCE chains, blind injection techniques, WAF evasion, and API abuse to demonstrate real-world impact
+- **Network Pentesting** — Full-scope internal & external network engagements — active directory exploitation, protocol abuse (SMB relay, LLMNR poisoning, Kerberoasting), lateral movement, pivoting through segmented networks, and post-exploitation persistence
+- **Android Pentesting** — Deep-dive mobile security assessments — runtime instrumentation with Frida, smali patching, SSL pinning bypass, insecure data storage analysis, intent hijacking, and reversing obfuscated APKs to uncover hidden attack surfaces
+- **Red Team Engagements** — Adversary simulation aligned with MITRE ATT&CK — phishing campaigns, initial access tradecraft, C2 infrastructure setup, defense evasion, privilege escalation chains, and full kill-chain execution reports
+- **Bug Bounty Hunting** — Targeting high-impact vulnerabilities in production systems — reconnaissance automation, vulnerability chaining for maximum severity, and responsible disclosure with detailed PoC writeups
+- **CTF Lab Design** — Architecting realistic multi-stage attack environments spanning web exploitation, network pivoting, privilege escalation, and red team scenarios across segmented Docker networks with progressive difficulty
+- **Security Content Creation** — YouTube & Instagram tutorials breaking down real attack techniques, tool walkthroughs, and CTF solve guides for the cybersecurity community
 
 ---
 
