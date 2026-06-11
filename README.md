@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Raghuveer Singh Chouhan 👋</h1>
 
 <p align="center">
-  <em>Cybersecurity Engineer | Bug Bounty Hunter | Pentester | Red Team Operator</em>
+  <em>Cyber Security Engineer | Pentester | Red Team Operator | Bug Bounty Hunter</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🔐 What I Do
 
-I'm a **Cybersecurity Engineer** specializing in **offensive security** — Web Application Pentesting, Network Pentesting, Android Pentesting, Bug Bounty Hunting, and Red Team Engagements. I find vulnerabilities before the bad guys do, simulate adversary tactics to test defenses, and help organizations strengthen their security posture.
+I'm a **Cybersecurity Engineer** specializing in **offensive security** — Web Application Pentesting, Network Pentesting, Android Pentesting, Bug Bounty Hunting, and Red Team Operator. I find vulnerabilities before the bad guys do, simulate adversary tactics to test defenses, and help organizations strengthen their security posture.
 
 I also design and build **CTF (Capture The Flag) labs** that simulate real-world multi-stage attack chains — from initial web exploitation to privilege escalation and network pivoting. On the side, I create **cybersecurity content** on YouTube and Instagram under the **Bot2Root** brand, covering pentesting techniques, tool walkthroughs, and security concepts for the community.
 
