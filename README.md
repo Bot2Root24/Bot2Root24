@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Raghuveer Singh Chouhan 👋</h1>
 
 <p align="center">
-  <em>Cybersecurity enthusiast by passion. CTF creator & security educator by obsession.</em>
+  <em>Cybersecurity Engineer | Bug Bounty Hunter | Pentester | Red Team Operator</em>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 🔐 What I Do
 
-I'm a **Cybersecurity Practitioner** passionate about offensive security, penetration testing, and building realistic training environments. I design and build **CTF (Capture The Flag) labs** that simulate real-world attack chains across web applications, network services, and Linux systems — helping security professionals and students sharpen their skills in a safe, legal environment.
+I'm a **Cybersecurity Engineer** specializing in **offensive security** — Web Application Pentesting, Network Pentesting, Android Pentesting, Bug Bounty Hunting, and Red Team Engagements. I find vulnerabilities before the bad guys do, simulate adversary tactics to test defenses, and help organizations strengthen their security posture.
 
-When I'm not breaking things on purpose, I'm creating **security content** on YouTube and Instagram under the **Bot2Root** brand — covering pentesting techniques, tool walkthroughs, and cybersecurity concepts for the community.
+I also design and build **CTF (Capture The Flag) labs** that simulate real-world multi-stage attack chains — from initial web exploitation to privilege escalation and network pivoting. On the side, I create **cybersecurity content** on YouTube and Instagram under the **Bot2Root** brand, covering pentesting techniques, tool walkthroughs, and security concepts for the community.
 
 ---
 
@@ -39,11 +39,15 @@ When I'm not breaking things on purpose, I'm creating **security content** on Yo
 <br>
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Hydra](https://img.shields.io/badge/-Hydra-8B0000?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/-SQLMap-CC0000?style=flat-square&logoColor=white)
+![Frida](https://img.shields.io/badge/-Frida-EF4444?style=flat-square&logoColor=white)
+![MobSF](https://img.shields.io/badge/-MobSF-3B82F6?style=flat-square&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-E11D48?style=flat-square&logoColor=white)
 
 </details>
 
@@ -67,17 +71,62 @@ When I'm not breaking things on purpose, I'm creating **security content** on Yo
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Bot2Root CTF-01**](https://github.com/Bot2Root24/Bot2Root-CTF-01) | Multi-stage pentest CTF lab with 11 Docker containers across 3 segmented networks — 15+ flags, 10 attack stages | Docker, Python, Shell |
+| [**Cybersecurity Mind Map**](#-mind-map) | Visual mind map of my offensive security skill tree — see below | Markdown, Mermaid |
 
 ---
 
 ### 🧪 What I'm Into
 
+- **Web Application Pentesting** — SQLi, XSS, SSRF, RCE, IDOR, file upload bypasses, WAF evasion, API security
+- **Network Pentesting** — Port scanning, service enumeration, SMB/FTP exploitation, VPN attacks, pivoting & tunneling
+- **Android Pentesting** — APK reverse engineering, Frida hooking, MobSF analysis, SSL pinning bypass
+- **Red Team Engagements** — Adversary simulation, initial access, lateral movement, persistence, C2 operations
+- **Bug Bounty Hunting** — Finding and responsibly disclosing vulnerabilities in production systems
 - **CTF Lab Design** — Building realistic multi-stage attack environments with Docker
-- **Web Exploitation** — SQLi, XSS, SSRF, RCE, file upload bypasses
-- **Network Pentesting** — Port scanning, SMB/FTP enumeration, VPN & SSH exploitation
-- **Privilege Escalation** — SUID binaries, cron abuse, GTFOBins & LOLBins
-- **Pivoting & Tunneling** — SSH port forwarding, proxy chains across segmented networks
-- **Security Content Creation** — YouTube & Instagram tutorials for the community
+- **Security Content Creation** — YouTube & Instagram tutorials for the cybersecurity community
+
+---
+
+### 🧠 Mind Map
+
+```mermaid
+mindmap
+  root((Bot2Root))
+    Web App Pentesting
+      SQL Injection & WAF Bypass
+      XSS (Stored / Reflected / DOM)
+      SSRF & IDOR
+      File Upload → RCE
+      API Security Testing
+      Authentication Bypass
+    Network Pentesting
+      Port Scanning & Enumeration
+      SMB / FTP / SSH Exploitation
+      VPN & Tunneling Attacks
+      Pivoting & Proxy Chains
+      Privilege Escalation
+    Android Pentesting
+      APK Reverse Engineering
+      Frida & Dynamic Analysis
+      SSL Pinning Bypass
+      MobSF & Static Analysis
+    Red Team
+      Adversary Simulation
+      Initial Access & Phishing
+      Lateral Movement
+      Persistence & C2
+      Defense Evasion
+    Bug Bounty
+      Recon & OSINT
+      Subdomain Enumeration
+      Vulnerability Chaining
+      Responsible Disclosure
+    CTF & Training
+      Lab Design (Docker)
+      Multi-Stage Attack Chains
+      15+ Flags / 10 Stages
+      3 Segmented Networks
+```
 
 ---
 
